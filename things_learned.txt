@@ -3,4 +3,20 @@ session_history for chatbots
 grq_ai
 hugging face
 vector store 
-Retrieval
+Retrieval.
+
+1)create_stuff_document_chain
+2)create_retrieval_chain
+3)create_sql_chain
+Agent Types
+4)ZERO_SHOT_REACT_DESCRIPTION
+5)CHAT_ZERO_SHOT_REACT_DESCRIPTION
+6)SELF_ASK_WITH_SEARCH: 
+
+Text_Summarisation:
+
+1)stuff chain
+2)MapReduce
+3)Refine Chain
+
+Tools & AGENTS 
