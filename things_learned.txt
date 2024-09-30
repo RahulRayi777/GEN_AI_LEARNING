@@ -35,3 +35,9 @@ vector storage
 DATASTAX(
 create database,
 and initilaise using casso and remaining in code)
+
+
+GEN AI APP DEPLOYMENT IN STREAMLIT
+
+GEN AI APP DEPLOYMENT IN 
+(CI & CD PIPELINE)HUGGINGFACE
