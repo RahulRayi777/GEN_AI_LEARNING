@@ -29,3 +29,9 @@ huggingface embedding
 
 copy paste repo_id and call this model
  if the model is too large to upload then 
+
+astra db(No sql data base ) application (high volume data)
+vector storage
+DATASTAX(
+create database,
+and initilaise using casso and remaining in code)
