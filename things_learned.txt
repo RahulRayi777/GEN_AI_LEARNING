@@ -20,3 +20,12 @@ Text_Summarisation:
 3)Refine Chain
 
 Tools & AGENTS 
+
+Hugging face and langchain integration(May 14th)
+pip install langchain_huggingface
+huggingface_hub--->API CALL()
+hugging face end point
+huggingface embedding
+
+copy paste repo_id and call this model
+ if the model is too large to upload then 
